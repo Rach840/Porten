@@ -795,8 +795,6 @@ animate({
 })();
 
 //==================СЛАЙДЕРЫ=============================================================================================================================
-$(document).ready(function () {
-
 
 
 
@@ -1019,7 +1017,7 @@ $(document).ready(function () {
    }
    spoiler()
    //!</===СПОИЛЕРЫ===>
-});
+
 let scr_body = document.querySelector('body');
 let scr_blocks = document.querySelectorAll('._scr-sector');
 let scr_items = document.querySelectorAll('._scr-item');
